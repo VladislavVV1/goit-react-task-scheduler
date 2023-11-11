@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/goit-react-task-scheduler/static/css/main.68d64d18.css",
+    "main.js": "/goit-react-task-scheduler/static/js/main.67493e3b.js",
+    "index.html": "/goit-react-task-scheduler/index.html",
+    "main.68d64d18.css.map": "/goit-react-task-scheduler/static/css/main.68d64d18.css.map",
+    "main.67493e3b.js.map": "/goit-react-task-scheduler/static/js/main.67493e3b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68d64d18.css",
+    "static/js/main.67493e3b.js"
+  ]
+}
